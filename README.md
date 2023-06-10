@@ -1,3 +1,6 @@
+# Sobre o projeto
+Está aplicação SPA Front end consiste em consumir a API do GITHUB para listagem de repositórios por pesquisa.
+
 ## Envio de solução
 
 ![desktop](https://user-images.githubusercontent.com/92489038/226201005-aa95538f-6d1b-4912-bc4f-500cf2523835.png)
@@ -10,6 +13,15 @@
 
 **Link do App:**
 https://challenge-field-control.vercel.app/
+
+# Tecnologias utilizadas
+
+## Front end
+- HTML / CSS / TypeScript
+- Angular
+
+## Implantação em produção
+- Front end web: Vercel
 
 ## Para rodar o app é preciso atualizar o token que está em service (myToken).
 
